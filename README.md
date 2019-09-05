@@ -1,4 +1,5 @@
 # m2i-jour1
 
-Mon fichier Readme PC
+Mon fichier mergé Readme PC et Web
+
 ajout ligne4 
